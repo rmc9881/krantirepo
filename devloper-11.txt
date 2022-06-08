@@ -1,2 +1,3 @@
 hellow, this is branching cls.
 hellow, this is branching cls. new branch merg,
+hellow, this is branching cls. new test.
